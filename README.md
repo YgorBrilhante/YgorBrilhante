@@ -1,7 +1,7 @@
 ## Olá, eu sou o Ygor Brilhante, estudante e desenvolvedor Mobile 👋 📱
  
-###  📚 Atualmente estudando desenvolvimento Android Nativo pela Alura.
-###  🧾 Bootcamp Santander Mobile Developer pela plataforma DIO. ✅
+###  📚 Atualmente estudando desenvolvimento Android Nativo (Alura).
+###  🧾 Bootcamp Santander Mobile Developer (D.I.O). ✅
 
 <div align="center">
   <a href="https://github.com/YgorBrilhante">
