@@ -4,11 +4,7 @@
 ###  📚 i'm currently learning Power BI and Python (Alura).
 ###  🧾 Completed Bootcamp Santander Mobile Developer (D.I.O). ✅
 
-<div align="center">
-  <a href="https://github.com/YgorBrilhante">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YgorBrilhante&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorBrilhante&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ygor-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
