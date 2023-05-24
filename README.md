@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Ygor Brilhante, data analyst, developer and eternal student 💻📈
 
 ###  💼 i'm currently working on Radio NovaBrasil FM - Grupo Thathi
-###  📚 i'm currently learning Power BI and Python (Alura).
+###  📚 i'm currently learning Python (Alura).
 
 
 
