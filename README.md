@@ -1,16 +1,16 @@
-## 👋 Hello, I'm Ygor Brilhante, data analyst, developer and eternal student 💻📈
+## 👋 Hello, I'm Ygor Brilhante, developer and student 💻📈
 
 ###  💼 i'm currently working on Radio NovaBrasil FM - Grupo Thathi
-###  📚 i'm currently learning Python (Alura).
+###  📚 i'm currently learning Kotlin.
 
 
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Ygor-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Ygor-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
   <img align="center" alt="Ygor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ygor-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Ygor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Ygor-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Ygor-Sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
   
