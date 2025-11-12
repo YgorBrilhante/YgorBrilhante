@@ -1,6 +1,8 @@
-# 👋 Hello, I'm Ygor 
+## 👋 Seja bem vindo, sou o Ygor 
 
-##  💼 i'm a software developer specializing in automation, RPA and AI integration. 💻📈
+###  💼 Desenvolvedor especializado em automação, RPA (Robotic Process Automation) e integração com IA
+
+### 💻 Ajudo empresas a otimizar fluxos de trabalho, reduzir erros manuais e impulsionar eficiência com ferramentas inteligentes 📈
 
 
 <div style="display: inline_block"><br>
