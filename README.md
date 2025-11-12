@@ -1,19 +1,24 @@
-## 👋 Hello, I'm Ygor Brilhante, developer and student 💻📈
+# 👋 Hello, I'm Ygor 
 
-###  💼 i'm currently working on Radio NovaBrasil FM - Grupo Thathi
-###  📚 i'm currently learning Kotlin.
-
+##  💼 i'm a software developer specializing in automation, RPA and AI integration. 💻📈
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ygor-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Ygor-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="Ygor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ygor-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Ygor-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">  
-  <img align="center" alt="Ygor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Ygor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Ygor-Sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Ygor-Anaconda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">
+  <!--<img align="center" alt="Ygor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="Ygor-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" > -->
+  <img align="center" alt="Ygor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" >
+  <img align="center" alt="Ygor-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="Ygor-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" >
+  <img align="center" alt="Ygor-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Ygor-Supabase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"  >
+  <img align="center" alt="Ygor-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" >
+  <img align="center" alt="Ygor-Traefik" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-plain-wordmark.svg" >
+  <img align="center" alt="Ygor-Cloudflare" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" >
+  <img align="center" alt="Ygor-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"  >
+  
   
 </div>
   
@@ -22,7 +27,7 @@
   <div> 
   
    <a href="https://www.linkedin.com/in/ygorbrilhante/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+<!--
    <p>
   <img 
     align="left" 
@@ -38,6 +43,7 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorBrilhante&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  -->
 
    
    <!-- ![Snake animation](https://github.com/YgorBrilhante/YgorBrilhante/blob/output/github-contribution-grid-snake.svg) -->
