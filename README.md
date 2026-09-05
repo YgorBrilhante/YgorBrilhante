@@ -1,6 +1,10 @@
 # 👋 Seja bem vindo, sou o Ygor 
 
-### Sou um Desenvolvedor de Software Pleno especializado em transformar IA em soluções reais de negócios (engenharia de IA de verdade). 
+### Sou Desenvolvedor Full Cycle, especializado em arquitetar sistemas agênticos de IA que automatizam processos corporativos de ponta a ponta.
+
+### Meu trabalho não é somente sobre "usar IA", mas para além disso, é sobre engenharia. 
+
+### Construo arquiteturas onde LLMs, multi-agentes e RPA resolvem problemas reais de negócio, com atenção a performance, eficiência no custo por token e confiabilidade em produção.
 
 - 💡 **Minha especialidade:** Aplicações Python focadas em RAG e orquestração de LLMs (Sistemas Multi-Agentes), Arquitetura de Sistemas, Backend, RPA e integrações diversas como n8n.
 - 💼 **Carreira:** Já criei sistemas automatizados para grandes empresas que integram desde o processamento de documentos até interfaces de conversação, do ramo financeiro ao operacional.
